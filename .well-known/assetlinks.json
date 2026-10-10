@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tinnapobusansa_source.twa",
+      "sha256_cert_fingerprints": [
+        "CC:9C:D7:0E:0B:39:39:CB:9E:3A:9F:19:8C:F6:72:4F:85:17:20:6E:B7:CA:29:23:7B:BE:CB:E1:F6:D5:45:F4"
+      ]
+    }
+  }
+]
